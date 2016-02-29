@@ -1,11 +1,10 @@
-<SPDX>
-<license identifier="LGPL-3.0">
+<license name="GNU Lesser General Public License v3.0 only" identifier="LGPL-3.0">
+<body>
 <title>
 GNU LESSER GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 </title>
 <copyright>Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</copyright>
-<body>
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License, supplemented by the additional permissions listed below.
@@ -18,7 +17,7 @@ As used herein, "this License" refers to version 3 of the GNU Lesser General Pub
 
 An "Application" is any work that makes use of an interface provided by the Library, but which is not otherwise based on the Library. Defining a subclass of a class defined by the Library is deemed a mode of using an interface provided by the Library.
 
-A "Combined Work" is a work produced by combining or linking an Application with the Library.  The particular version of the Library with which the Combined Work was made is also called the "Linked Version".
+<b>A</b> "Combined Work" is a work produced by combining or linking an Application with the Library.  The particular version of the Library with which the Combined Work was made is also called the "Linked Version".
 
 The "Minimal Corresponding Source" for a Combined Work means the Corresponding Source for the Combined Work, excluding any source code for portions of the Combined Work that, considered in isolation, are based on the Application, and not on the Linked Version.
 
@@ -74,4 +73,3 @@ If the Library as you received it specifies that a proxy can decide whether futu
 apply, that proxy's public statement of acceptance of any version is permanent authorization for you to choose that version for the Library.
 </body>
 </license>
-</SPDX>

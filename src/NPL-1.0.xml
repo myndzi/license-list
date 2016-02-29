@@ -1,7 +1,6 @@
-<SPDX>
-<license identifier="NPL-1.0">
-<title>NETSCAPE PUBLIC LICENSE Version 1.0</title>
+<license name="Netscape Public License v1.0" identifier="NPL-1.0">
 <body>
+<title>NETSCAPE PUBLIC LICENSE Version 1.0</title>
 <b>1.</b> Definitions.
 	
      <b>1.1.</b> ``Contributor'' means each entity that creates or contributes to the creation of Modifications.
@@ -90,7 +89,7 @@ Source Code form, even if such code would otherwise be considered ``Modification
           V.1. In General. The obligations of Section 3 apply to Netscape, except to the extent specified in this Amendment, Section V.2 and V.3.           V.2. Other Products. Netscape may include Covered Code in products other than the Netscape's Branded Code which are released by Netscape during the two (2) years following the release date of the Original Code, without such additional products becoming subject to the terms of this License, and may license such additional products on different terms from those contained in this License.           V.3. Alternative Licensing. Netscape may license the Source Code of Netscape's Branded Code, including Modifications incorporated therein, without such additional products becoming subject to the terms of this License, and may license such additional products on different terms from those contained in this License.
 	
      <b>VI.</b> Arbitration and Litigation.       Notwithstanding the limitations of Section 11 above, the provisions regarding arbitration and litigation in Section 11(a), (b) and (c) of the License shall apply to all disputes relating to this License.
-
+<optional>
 EXHIBIT A.
 
 “The contents of this file are subject to the Netscape Public License Version 1.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.mozilla.org/NPL/
@@ -99,6 +98,6 @@ Software distributed under the License is distributed on an "AS IS" basis, WITHO
 The Original Code is Mozilla Communicator client code, released March 31, 1998. 
 The Initial Developer of the Original Code is Netscape Communications Corporation. Portions created by Netscape are Copyright (C) 1998 Netscape Communications Corporation. All Rights Reserved. 
 Contributor(s): ______________________________________.”  [NOTE: The text of this Exhibit A may differ slightly from the text of the notices in the Source Code files of the Original Code. This is due to time constraints encountered in simultaneously finalizing the License and in preparing the Original Code for release. You should use the text of this Exhibit A rather than the text found in the Original Code Source Code for Your Modifications.]
+</optional>
 </body>
 </license>
-</SPDX>

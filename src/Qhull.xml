@@ -1,5 +1,5 @@
-<SPDX>
-<license identifier="Qhull">
+<license name="Qhull License" identifier="Qhull">
+<body>
 <copyright>
 Qhull, Copyright (c) 1993-2003
 
@@ -7,7 +7,6 @@ The National Science and Technology Research Center for Computation and Visualiz
 
 email: qhull@qhull.org
 </copyright>
-<body>
 This software includes Qhull from The Geometry Center. Qhull is copyrighted as noted above. Qhull is free software and may be obtained via http from www.qhull.org. It may be freely copied, modified, and redistributed under the following conditions:
 
 <b>1.</b> All copyright notices must remain intact in all files.
@@ -21,4 +20,3 @@ This software includes Qhull from The Geometry Center. Qhull is copyrighted as n
 <b>5.</b> There is no warranty or other guarantee of fitness for Qhull, it is provided solely "as is". Bug reports or fixes may be sent to qhull_bug@qhull.org; the authors may or may not act on them as they desire.
 </body>
 </license>
-</SPDX>

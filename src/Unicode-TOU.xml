@@ -1,9 +1,10 @@
-<SPDX>
-<license identifier="Unicode-TOU">
-<title>Unicode Terms of Use</title>
+<license name="Unicode Terms of Use" identifier="Unicode-TOU">
 <body>
-For the general privacy policy governing access to this site, see the Unicode Privacy Policy. For trademark usage, see the Unicode® Consortium Name and Trademark Usage Policy.
+<title>
+Unicode Terms of Use 
 
+For the general privacy policy governing access to this site, see the Unicode Privacy Policy. For trademark usage, see the Unicode® Consortium Name and Trademark Usage Policy.
+</title>
 <b>A.</b> Unicode Copyright. 
    
      <b>1.</b> Copyright © 1991-2014 Unicode, Inc. All rights reserved. 
@@ -53,4 +54,3 @@ For the general privacy policy governing access to this site, see the Unicode Pr
      <b>5.</b> Entire Agreement. This Agreement constitutes the entire agreement between the parties.
 </body>
 </license>
-</SPDX>

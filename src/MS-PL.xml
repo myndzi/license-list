@@ -1,7 +1,6 @@
-<SPDX>
-<license identifier="MS-PL">
-<title>Microsoft Public License (Ms-PL)</title>
+<license name="Microsoft Public License" identifier="MS-PL">
 <body>
+<title>Microsoft Public License (Ms-PL)</title>
 This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
  
 <b>1.</b>  Definitions
@@ -24,4 +23,3 @@ The terms "reproduce," "reproduction," "derivative works," and "distribution" ha
      <b>(E)</b> The software is licensed "as-is." You bear the risk of using it. The contributors give no express warranties, guarantees, or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the contributors exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
 </body>
 </license>
-</SPDX>

@@ -1,7 +1,7 @@
-<SPDX>
-<license identifier="NTP">
+<license name="NTP License" identifier="NTP">
+<body>
 <title>NTP License (NTP)</title>
 <copyright>Copyright (c) <alt name="copyright" match=".+">(CopyrightHoldersName) (From 4-digit-year)-(To 4-digit-year)</alt></copyright>
-<body>Permission to use, copy, modify, and distribute this software and its documentation for any purpose with or without fee is hereby granted, provided that the above copyright notice appears in all copies and that both the copyright notice and this permission notice appear in supporting documentation, and that the name <alt name="TMname" match=".+">(TrademarkedName)</alt> not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. <alt name="TMname" match=".+">(TrademarkedName)</alt> makes no representations about the suitability this software for any purpose. It is provided "as is" without express or implied warranty.</body>
+Permission to use, copy, modify, and distribute this software and its documentation for any purpose with or without fee is hereby granted, provided that the above copyright notice appears in all copies and that both the copyright notice and this permission notice appear in supporting documentation, and that the name <alt name="TMname" match=".+">(TrademarkedName)</alt> not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. <alt name="TMname" match=".+">(TrademarkedName)</alt> makes no representations about the suitability this software for any purpose. It is provided "as is" without express or implied warranty.
+</body>
 </license>
-</SPDX>

@@ -1,7 +1,6 @@
-<SPDX>
-<license identifier="Frameworx-1.0">
-<title>THE FRAMEWORX OPEN LICENSE 1.0</title>
+<license name="Frameworx Open License 1.0" identifier="Frameworx-1.0">
 <body>
+<title>THE FRAMEWORX OPEN LICENSE 1.0</title>
 This License Agreement, The Frameworx Open License 1.0, has been entered into between The Frameworx Company and you, the licensee hereunder, effective as of Your acceptance of the Frameworx Code Base or an Downstream Distribution (each as defined below).
 
 AGREEMENT BACKGROUND
@@ -71,4 +70,3 @@ Your agreement to the foregoing as of the date hereof has been evidenced by your
 <b>(C)</b> THE FRAMEWORX COMPANY 2003
 </body>
 </license>
-</SPDX>

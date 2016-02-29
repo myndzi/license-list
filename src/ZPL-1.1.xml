@@ -1,8 +1,7 @@
-<SPDX>
-<license identifier="ZPL-1.1">
+<license name="Zope Public License 1.1" identifier="ZPL-1.1">
+<body>
 <title>Zope Public License (ZPL) Version 1.1</title>
 <copyright>Copyright (c) Zope Corporation. All rights reserved.</copyright>
-<body>
 This license has been certified as open source.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -34,4 +33,3 @@ THIS SOFTWARE IS PROVIDED BY ZOPE CORPORATION ``AS IS'' AND ANY EXPRESSED OR IMP
 This software consists of contributions made by Zope Corporation and many individuals on behalf of Zope Corporation. Specific attributions are listed in the accompanying credits file.
 </body>
 </license>
-</SPDX>

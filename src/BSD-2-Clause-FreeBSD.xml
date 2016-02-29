@@ -1,8 +1,7 @@
-<SPDX>
-<license identifier="BSD-2-Clause-FreeBSD">
+<license name="BSD 2-clause FreeBSD License" identifier="BSD-2-Clause-FreeBSD">
+<body>
 <title>The FreeBSD Copyright</title>
 <copyright>Copyright 1992-2012 The FreeBSD Project. All rights reserved.</copyright>
-<body>
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 <b>1.</b> Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
@@ -14,4 +13,3 @@ THIS SOFTWARE IS PROVIDED BY THE FREEBSD PROJECT ``AS IS'' AND ANY EXPRESS OR IM
 The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of the FreeBSD Project.
 </body>
 </license>
-</SPDX>

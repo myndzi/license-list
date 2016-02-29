@@ -1,11 +1,12 @@
-<SPDX>
-<license identifier="Sendmail">
-<title>SENDMAIL LICENSE</title>
+<license name="Sendmail License" identifier="Sendmail">
 <body>
+<title>
+SENDMAIL LICENSE 
+
 The following license terms and conditions apply, unless a redistribution agreement or other license is obtained from Sendmail, Inc., 6475 Christie Ave, Third Floor, Emeryville, CA 94608, USA, or by electronic mail at license@sendmail.com. 
 
-License Terms: 
-
+License Terms:
+</title>
 Use, Modification and Redistribution (including distribution of any modified or derived work) in source and binary forms is permitted only if each of the following conditions is met: 
 
 <b>1.</b> Redistributions qualify as "freeware" or "Open Source Software" under one of the following terms: 
@@ -33,9 +34,7 @@ Use, Modification and Redistribution (including distribution of any modified or 
 
           <b>(iii)</b> Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. 
 
-<b>6.</b> Disclaimer/Limitation of Liability: THIS SOFTWARE IS PROVIDED BY SENDMAIL, INC. AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL SENDMAIL, INC., THE REGENTS OF THE UNIVERSITY OF CALIFORNIA OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
-
-$Revision: 8.16 $, Last updated $Date: 2010/10/25 23:11:19 $, Document 139848.1
+<b>6.</b> Disclaimer/Limitation of Liability: THIS SOFTWARE IS PROVIDED BY SENDMAIL, INC. AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL SENDMAIL, INC., THE REGENTS OF THE UNIVERSITY OF CALIFORNIA OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+<optional>$Revision: 8.16 $, Last updated $Date: 2010/10/25 23:11:19 $, Document 139848.1</optional>
 </body>
 </license>
-</SPDX>

@@ -1,10 +1,9 @@
-<SPDX>
-<license identifier="CDDL-1.0">
+<license name="Common Development and Distribution License 1.0" identifier="CDDL-1.0">
+<body>
 <title>
 COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL)
 Version 1.0
 </title>
-<body>
 <b>1.</b> Definitions.
 
 <b>1.1.</b> “Contributor” means each individual or entity that creates or contributes to the creation of Modifications.
@@ -123,4 +122,3 @@ This License represents the complete agreement concerning subject matter hereof.
 As between Initial Developer and the Contributors, each party is responsible for claims and damages arising, directly or indirectly, out of its utilization of rights under this License and You agree to work with Initial Developer and Contributors to distribute such responsibility on an equitable basis. Nothing herein is intended or shall be deemed to constitute any admission of liability.
 </body>
 </license>
-</SPDX>

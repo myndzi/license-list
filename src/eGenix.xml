@@ -1,12 +1,10 @@
-<SPDX>
-<license identifier="eGenix">
+<license name="eGenix.com Public License 1.1.0" identifier="eGenix">
+<body>
 <title>
 EGENIX.COM PUBLIC LICENSE AGREEMENT 
 Version 1.1.0
 </title>
-<body>
-This license agreement is based on the Python CNRI License Agreement, a widely accepted open- source license. 
-
+<optional>This license agreement is based on the Python CNRI License Agreement, a widely accepted open- source license.</optional>
 <b>1.</b> Introduction 
 This "License Agreement" is between eGenix.com Software, Skills and Services GmbH ("eGenix.com"), having an office at Pastor-Loeh-Str. 48, D-40764 Langenfeld, Germany, and the Individual or Organization ("Licensee") accessing and otherwise using this software in source or binary form and its associated documentation ("the Software"). 
 
@@ -44,4 +42,3 @@ By downloading, copying, installing or otherwise using the Software, Licensee ag
      Germany
 </body>
 </license>
-</SPDX>

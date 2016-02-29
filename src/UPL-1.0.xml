@@ -1,9 +1,8 @@
-<SPDX>
-<license identifier="UPL-1.0">
+<license name="Universal Permissive License v1.0" identifier="UPL-1.0">
+<body>
 <title>The Universal Permissive License (UPL), Version 1.0</title>
 <copyright>Copyright (c) [year] [copyright holders]</copyright>
 <title>The Universal Permissive License (UPL), Version 1.0</title>
-<body>
 Subject to the condition set forth below, permission is hereby granted to any person obtaining a copy of this software, associated documentation and/or data (collectively the "Software"), free of charge and under any and all copyright rights in the Software, and any and all patent rights owned or freely licensable by each licensor hereunder covering either (i) the unmodified Software as contributed to or provided by such licensor, or (ii) the Larger Works (as defined below), to deal in both
 
 <b>(a)</b> the Software, and
@@ -19,4 +18,3 @@ The above copyright notice and either this complete permission notice or at a mi
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 </body>
 </license>
-</SPDX>

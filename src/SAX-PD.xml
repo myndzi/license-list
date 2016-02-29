@@ -1,8 +1,6 @@
-<SPDX>
-<license identifier="SAX-PD">
+<license name="Sax Public Domain Notice" identifier="SAX-PD">
 <body>
-Copyright Status
-
+<title>Copyright Status</title>
 SAX is free!
 
 In fact, it's not possible to own a license to SAX, since it's been placed in the public domain.
@@ -34,4 +32,3 @@ David Megginson, Megginson Technologies Ltd.
 2000-05-05
 </body>
 </license>
-</SPDX>

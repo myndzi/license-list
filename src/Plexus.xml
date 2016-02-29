@@ -1,7 +1,6 @@
-<SPDX>
-<license identifier="Plexus">
-<copyright>Copyright <alt name="copyright" match=".+">2002 (C) The Codehaus</alt>. All Rights Reserved.</copyright>
+<license name="Plexus Classworlds License" identifier="Plexus">
 <body>
+<copyright>Copyright <alt name="copyright" match=".+">2002 (C) The Codehaus</alt>. All Rights Reserved.</copyright>
 Redistribution and use of this software and associated documentation ("Software"), with or without modification, are permitted provided that the following conditions are met:
 
 <b>1.</b> Redistributions of source code must retain copyright statements and notices. Redistributions must also contain a copy of this document. 
@@ -17,4 +16,3 @@ Redistribution and use of this software and associated documentation ("Software"
 THIS SOFTWARE IS PROVIDED BY <alt name="nameDisclaimer" match=".+">THE CODEHAUS</alt> AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL <alt name="name2Disclaimer" match=".+">THE CODEHAUS</alt> OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 </body>
 </license>
-</SPDX>

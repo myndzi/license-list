@@ -1,17 +1,9 @@
-<SPDX>
-<license identifier="APSL-1.1">
-<header>
-Portions Copyright (c) 1999-2000 Apple Computer, Inc.  All Rights Reserved.  
-
-This file contains Original Code and/or Modifications of Original Code as defined in and that are subject to the Apple Public Source License Version 1.1 (the "License").  You may not use this file except in compliance with the License.  Please obtain a copy of the License at http://www.apple.com/publicsource and read it before using this file.
-
-The Original Code and all software distributed under the License are distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON- INFRINGEMENT.  Please see the License for the specific language governing rights and limitations under the License.
-</header>
+<license name="Apple Public Source License 1.1" identifier="APSL-1.1">
+<body>
 <title>
 APPLE PUBLIC SOURCE LICENSE
 Version 1.1 - April 19,1999
 </title>
-<body>
 Please read this License carefully before downloading this software.
 By downloading and using this software, you are agreeing to be bound by the terms of this License.  If you do not or cannot agree to the terms of this License, please do not download or use the software.
 
@@ -111,12 +103,12 @@ develop, produce, market or distribute.
      <b>13.7</b> Entire Agreement; Governing Law.  This License constitutes the entire agreement between the parties with respect to the subject matter hereof.  This License shall be governed by the laws of the United States and the State of California, except that body of California law concerning conflicts of law.
 
      Where You are located in the province of Quebec, Canada, the following clause applies: The parties hereby confirm that they have requested that this License and all related documents be drafted in English. Les parties ont exige que le present contrat et tous les documents connexes soient rediges en anglais.
-
+<optional>
 EXHIBIT A.
 
 "Portions Copyright (c) 1999-2000 Apple Computer, Inc.  All Rights Reserved.  This file contains Original Code and/or Modifications of Original Code as defined in and that are subject to the Apple Public Source License Version 1.1 (the "License").  You may not use this file except in compliance with the License.  Please obtain a copy of the License at http://www.apple.com/publicsource and read it before using this file.
 
 The Original Code and all software distributed under the License are distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON- INFRINGEMENT.  Please see the License for the specific language governing rights and limitations under the License."
+</optional>
 </body>
 </license>
-</SPDX>

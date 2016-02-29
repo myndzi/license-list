@@ -1,8 +1,6 @@
-<!-- REVIEW -->
-<SPDX>
-<license identifier="Borceux">
-<copyright>Copyright 1993 Francis Borceux</copyright>
+<license name="Borceux license" identifier="Borceux">
 <body>
+<copyright>Copyright 1993 Francis Borceux</copyright>
 You may freely use, modify, and/or distribute each of the files in this package without limitation.  The package consists of the following files:
 
 README
@@ -23,4 +21,3 @@ Of course no support is guaranteed, but the author will attempt to assist with p
 francis dot borceux at uclouvain dot be.
 </body>
 </license>
-</SPDX>

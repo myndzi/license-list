@@ -1,7 +1,8 @@
-<SPDX>
-<license identifier="psutils">
-<title>PS Utilities Package</title>
+<!-- REVIEW -->
+<license name="psutils License" identifier="psutils">
 <body>
+<title>PS Utilities Package</title>
+<copyright>
 The constituent files of this package listed below are copyright (C) 1991-1995 Angus J. C. Duggan.
 
 LICENSE          Makefile.msc     Makefile.nt	   Makefile.os2
@@ -19,7 +20,7 @@ psnup.c          psnup.man        psresize.c	   psresize.man
 psselect.c	 psselect.man     psspec.c         psspec.h
 pstops.c         pstops.man	  psutil.c         psutil.h
 showchar
-
+</copyright>
 They may be copied and used for any purpose (including distribution as part of a for-profit product), provided:
 
 <b>1)</b> The original attribution of the programs is clearly displayed in the product and/or documentation, even if the programs are modified and/or renamed as part of the product.
@@ -31,4 +32,3 @@ They may be copied and used for any purpose (including distribution as part of a
 Basically, I don't mind how you use the programs so long as you acknowledge the author, and give people the originals if they want them.
 </body>
 </license>
-</SPDX>

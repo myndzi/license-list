@@ -1,9 +1,8 @@
-<SPDX>
-<license identifier="Zed">
-<copyright>(c) Jim Davies, January 1995</copyright>
+<!-- REVIEW -->
+<license name="Zed License" identifier="Zed">
 <body>
+<copyright>(c) Jim Davies, January 1995</copyright>
 You may copy and distribute this file freely.  Any queries and complaints should be forwarded to Jim.Davies@comlab.ox.ac.uk.
 If you make any changes to this file, please do not distribute the results under the name `zed-csp.sty'.
 </body>
 </license>
-</SPDX>

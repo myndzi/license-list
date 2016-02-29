@@ -1,7 +1,6 @@
-<SPDX>
-<license identifier="Afmparse">
-<copyright>(C) 1988, 1989 by Adobe Systems Incorporated. All rights reserved.</copyright>
+<license name="Afmparse License" identifier="Afmparse">
 <body>
+<copyright>(C) 1988, 1989 by Adobe Systems Incorporated. All rights reserved.</copyright>
 This file may be freely copied and redistributed as long as:  
 
      <b>1)</b> This entire notice continues to be included in the file,  
@@ -12,4 +11,3 @@ PostScript, Display PostScript,and Adobe are registered trademarks of Adobe Syst
 THE INFORMATION BELOW IS FURNISHED AS IS, IS SUBJECT TO CHANGE WITHOUT NOTICE, AND SHOULD NOT BE CONSTRUED AS A COMMITMENT BY ADOBE SYSTEMS INCORPORATED. ADOBE SYSTEMS INCORPORATED ASSUMES NO RESPONSIBILITY OR LIABILITY FOR ANY ERRORS OR INACCURACIES, MAKES NO WARRANTY OF ANY KIND (EXPRESS, IMPLIED OR STATUTORY) WITH RESPECT TO THIS INFORMATION, AND EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSES AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.
 </body>
 </license>
-</SPDX>

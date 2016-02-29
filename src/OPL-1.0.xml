@@ -1,10 +1,9 @@
-<SPDX>
-<license identifier="OPL-1.0">
+<license name="Open Public License v1.0" identifier="OPL-1.0">
+<body>
 <title>
 OPEN PUBLIC LICENSE 
 Version 1.0
 </title>
-<body>
 <b>1.</b> Definitions.
 
      <b>1.1.</b> "Contributor" means each entity that creates or contributes to the creation of Modifications.
@@ -130,7 +129,7 @@ The Covered Code is a ``commercial item,'' as that term is defined in 48 C.F.R. 
 <b>12.</b> RESPONSIBILITY FOR CLAIMS.
 
 Except in cases where another Contributor has failed to comply with Section 3.4, You are responsible for damages arising, directly or indirectly, out of Your utilization of rights under this License, based on the number of copies of Covered Code you made available, the revenues you received from utilizing such rights, and other relevant factors. You agree to work with affected parties to distribute with Initial Developer responsibility on an equitable basis.
-
+<optional>
 EXHIBIT A.
 
 Text for this Exhibit A is found in the corresponding addendum, described in section 6.4 above, text file provided by the Initial Developer. This license is not valid or complete with out that file.
@@ -138,6 +137,6 @@ Text for this Exhibit A is found in the corresponding addendum, described in sec
 EXHIBIT B.
 
 Text for this Exhibit B is found in the corresponding addendum, described in section 6.4 above, text file provided by the Initial Developer. This license is not valid or complete with out that file.
+</optional>
 </body>
 </license>
-</SPDX>

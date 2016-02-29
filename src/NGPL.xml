@@ -1,9 +1,10 @@
-<SPDX>
-<license identifier="NGPL">
-<title>NETHACK GENERAL PUBLIC LICENSE</title>
-<copyright>(Copyright 1989 M. Stephenson)</copyright>
-<optional>(Based on the BISON general public license, copyright 1988 Richard M. Stallman)</optional>
+<license name="Nethack General Public License" identifier="NGPL">
 <body>
+<title>NETHACK GENERAL PUBLIC LICENSE</title>
+<copyright>
+(Copyright 1989 M. Stephenson) 
+(Based on the BISON general public license, copyright 1988 Richard M. Stallman)
+</copyright>
 Everyone is permitted to copy and distribute verbatim copies of this license, but changing it is not allowed. You can also use this wording to make the terms for other programs.
 
 The license agreements of most software companies keep you at the mercy of those companies. By contrast, our general public license is intended to give everyone the right to share NetHack. To make sure that you get the rights we want you to have, we need to make restrictions that forbid anyone to deny you these rights or to ask you to surrender the rights. Hence this license agreement.
@@ -40,4 +41,3 @@ You may not copy, sublicense, distribute or transfer NetHack except as expressly
 Stated plainly: You are permitted to modify NetHack, or otherwise use parts of NetHack, provided that you comply with the conditions specified above; in particular, your modified NetHack or program containing parts of NetHack must remain freely available as provided in this License Agreement. In other words, go ahead and share NetHack, but don't try to stop anyone else from sharing it farther.
 </body>
 </license>
-</SPDX>

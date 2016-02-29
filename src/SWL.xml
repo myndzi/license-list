@@ -1,5 +1,4 @@
-<SPDX>
-<license identifier="SWL">
+<license name="Scheme Widget Library (SWL) Software License Agreement" identifier="SWL">
 <body>
 The authors hereby grant permission to use, copy, modify, distribute, and license this software and its documentation for any purpose, provided that existing copyright notices are retained in all copies and that this notice is included verbatim in any distributions. No written agreement, license, or royalty fee is required for any of the authorized uses. Modifications to this software may be copyrighted by their authors and need not follow the licensing terms described here, provided that the new terms are clearly indicated on the first page of each file where they apply.
 
@@ -10,4 +9,3 @@ GOVERNMENT USE: If you are acquiring this software on behalf of the U.S. governm
 BY INSTALLING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
 </body>
 </license>
-</SPDX>

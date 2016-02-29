@@ -1,5 +1,4 @@
-<SPDX>
-<license identifier="SISSL-1.2">
+<license name="Sun Industry Standards Source License v1.2" identifier="SISSL-1.2">
 <header>
 The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the License); You may not use this file except in compliance with the License.
 
@@ -19,11 +18,11 @@ All Rights Reserved.
 
 "Contributor(s): <alt name="contributor" match=".+">_____</alt>
 </header>
+<body>
 <title>
 SUN INDUSTRY STANDARDS SOURCE LICENSE
 Version 1.2
 </title>
-<body>
 <b>1.0</b> DEFINITIONS 
 
      <b>1.1</b> Commercial Use means distribution or otherwise making the Original Code available to a third party. 
@@ -102,9 +101,8 @@ ORIGINAL CODE IS PROVIDED UNDER THIS LICENSE ON AN AS IS BASIS, WITHOUT WARRANTY
 
 <b>8.0</b> TERMINATION
 
-     <b>8.1</b> This License and the rights granted hereunder will terminate automatically if You fail to comply with terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses to the Original Code which are properly granted shall survive any termination of this License. Provisions which, by their nature, must remain in effect beyond the termination of this License shall survive. 8.2 In the event of termination under Section 8.1 above, all end user license agreements (excluding distributors and resellers) which have been validly granted by You or any distributor hereunder prior to termination shall survive termination. 
-
-
+     <b>8.1</b> This License and the rights granted hereunder will terminate automatically if You fail to comply with terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses to the Original Code which are properly granted shall survive any termination of this License. Provisions which, by their nature, must remain in effect beyond the termination of this License shall survive. 8.2 In the event of termination under Section 8.1 above, all end user license agreements (excluding distributors and resellers) which have been validly granted by You or any distributor hereunder prior to termination shall survive termination.
+<optional>
 EXHIBIT A - Sun Industry Standards Source License
 
 "The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the License); You 
@@ -125,7 +123,7 @@ Sun Microsystems, Inc."
 "All Rights Reserved."
 
 "Contributor(s):__________________________________"
-
+</optional>
 EXHIBIT B - Standards
 
 <b>1.0</b> Requirements for project Standards. The requirements for project Standards are version-dependent and are defined at: Grid Engine standards.
@@ -137,4 +135,3 @@ EXHIBIT B - Standards
      <b>2.2</b> Compliance Claims. If any of your Modifications do not meet the requirements of the Standards you may not claim, directly or indirectly, that your implementation of the Standards is compliant.
 </body>
 </license>
-</SPDX>

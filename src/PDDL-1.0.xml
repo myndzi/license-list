@@ -1,7 +1,8 @@
-<SPDX>
-<license identifier="PDDL-1.0">
-<title>Open Data Commons - Public Domain Dedication &amp; License (PDDL)</title>
+<license name="ODC Public Domain Dedication &amp; License 1.0" identifier="PDDL-1.0">
 <body>
+<title>
+Open Data Commons - Public Domain Dedication &amp; License (PDDL)
+
 Preamble 
 The Open Data Commons - Public Domain Dedication &amp; Licence is a document intended to allow you to freely share, modify, and use this work for any purpose and without any restrictions. This licence is intended for use on databases or their contents ("data"), either together or individually.
 
@@ -24,7 +25,7 @@ Rightsholders can also use this document to cover any copyright or database righ
 Just like any licence or other document dealing with intellectual property, rightsholders should be aware that one can only license what one owns. Please ensure that the rights have been cleared to make this material available under this document.
 
 This document permanently and irrevocably makes the Work available to the public for any use of any kind, and it should not be used unless the rightsholder is prepared for this to happen.
-
+</title>
 Part I: Introduction
 
 The Rightsholder (the Person holding rights or claims over the Work) agrees as follows:
@@ -138,4 +139,3 @@ Please note that some jurisdictions do not allow for the waiver of moral rights,
 <b>6.4</b> This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
 </body>
 </license>
-</SPDX>

@@ -1,10 +1,9 @@
-<SPDX>
-<license identifier="CDDL-1.1">
+<license name="Common Development and Distribution License 1.1" identifier="CDDL-1.1">
+<body>
 <title>
 COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL)
 Version 1.1
 </title>
-<body>
 <b>1.</b> Definitions.
 
 <b>1.1.</b> “Contributor” means each individual or entity that creates or contributes to the creation of Modifications.
@@ -127,4 +126,3 @@ NOTICE PURSUANT TO SECTION 9 OF THE COMMON DEVELOPMENT AND DISTRIBUTION LICENSE 
 The code released under the CDDL shall be governed by the laws of the State of California (excluding conflict-of-law provisions). Any litigation relating to this License shall be subject to the jurisdiction of the Federal Courts of the Northern District of California and the state courts of the State of California, with venue lying in Santa Clara County, California.
 </body>
 </license>
-</SPDX>

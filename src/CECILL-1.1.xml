@@ -1,12 +1,12 @@
-<SPDX>
-<license identifier="CECILL-1.1">
-<title>FREE SOFTWARE LICENSING AGREEMENT CeCILL</title>
+<license name="CeCILL Free Software License Agreement v1.1" identifier="CECILL-1.1">
 <body>
+<title>FREE SOFTWARE LICENSING AGREEMENT CeCILL</title>
+<optional>
 Notice
 
 This Agreement is a free software license that is the result of discussions between its authors in order to ensure compliance with the two main principles guiding its drafting: 
- - firstly, its conformity with French law, both as regards the law of torts and intellectual property law, and the protection that it offers to authors and the holders of economic rights over software. 
- - secondly, compliance with the principles for the distribution of free software: access to source codes, extended user-rights.
+ <b>-</b> firstly, its conformity with French law, both as regards the law of torts and intellectual property law, and the protection that it offers to authors and the holders of economic rights over software. 
+ <b>-</b> secondly, compliance with the principles for the distribution of free software: access to source codes, extended user-rights.
 
 The following bodies are the authors of this license CeCILL (Ce : CEA, C : CNRS, I : INRIA, LL : Logiciel Libre):
 
@@ -26,8 +26,8 @@ As a counterpart to the access to the source code and rights to copy, modify and
 
 In this respect, it is brought to the user's attention that the risks associated with loading, using, modifying and/or developing or reproducing the software by the user given its nature of Free Software, that may mean that it is complicated to manipulate, and that also therefore means that it is reserved for developers and experienced professionals having in-depth computer knowledge. Users are therefore encouraged to load and test the Software's suitability as regards their requirements in conditions enabling the security of their systems and/or data to be ensured and, more generally, to use and operate it in the same conditions of security. This Agreement may be freely reproduced and published, provided it is not altered, and that no Articles are either added or removed herefrom. 
 
-This Agreement may apply to any or all software for which the holder of the economic rights decides to submit the operation thereof to its provisions. 
-
+This Agreement may apply to any or all software for which the holder of the economic rights decides to submit the operation thereof to its provisions.
+</optional>
 Article 1 - DEFINITIONS 
 
 For the purposes of this Agreement, when the following expressions commence with a capital letter, they shall have the following meaning:
@@ -227,7 +227,6 @@ Article 13 - GOVERNING LAW AND JURISDICTION
 <b>13.1.</b> The Agreement is governed by French law. The Parties agree to endeavor to settle the disagreements or disputes that may arise during the performance of the Agreement out-of-court.
 
 <b>13.2.</b> In the absence of an out-of-court settlement within two (2) months as from their occurrence, and unless emergency proceedings are necessary, the disagreements or disputes shall be referred to the Paris Courts having jurisdiction, by the first Party to take action.
+<title>Version 1.1 of 10/26/2004</title>
 </body>
-<optional>Version 1.1 of 10/26/2004</optional>
 </license>
-</SPDX>

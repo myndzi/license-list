@@ -1,14 +1,6 @@
-<SPDX>
-<license identifier="ErlPL-1.1">
-<header>
-The contents of this file are subject to the Erlang Public License, Version 1.1, (the "License"); you may not use this file except in compliance with the License. You should have received a copy of the Erlang Public License along with this software. If not, it can be retrieved via the world wide web at http://www.erlang.org/.
-
-Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License.
-
-The Initial Developer of the Original Code is Ericsson Utvecklings AB.  Portions created by Ericsson are Copyright 1999, Ericsson Utvecklings AB. All Rights Reserved.
-</header>
-<title>ERLANG PUBLIC LICENSE Version 1.1</title>
+<license name="Erlang Public License v1.1" identifier="ErlPL-1.1">
 <body>
+<title>ERLANG PUBLIC LICENSE Version 1.1</title>
 <b>1.</b> Definitions.
 
 <b>1.1.</b> ``Contributor'' means each entity that creates or contributes to the creation of Modifications.
@@ -91,8 +83,8 @@ This License and the rights granted hereunder will terminate automatically if Yo
 Any utilization of Covered Code shall not cause the Initial Developer or any Contributor to be liable for any damages (neither direct nor indirect).
 
 <b>10.</b> MISCELLANEOUS 
-This License represents the complete agreement concerning the subject matter hereof. If any provision is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. This License shall be construed by and in accordance with the substantive laws of Sweden. Any dispute, controversy or claim arising out of or relating to this License, or the breach, termination or invalidity thereof, shall be subject to the exclusive jurisdiction of Swedish courts, with the Stockholm City Court as the first instance. 
-
+This License represents the complete agreement concerning the subject matter hereof. If any provision is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. This License shall be construed by and in accordance with the substantive laws of Sweden. Any dispute, controversy or claim arising out of or relating to this License, or the breach, termination or invalidity thereof, shall be subject to the exclusive jurisdiction of Swedish courts, with the Stockholm City Court as the first instance.
+<optional>
 EXHIBIT A.
 
 ``The contents of this file are subject to the Erlang Public License, Version 1.1, (the "License"); you may not use this file except in compliance with the License. You should have received a copy of the Erlang Public License along with this software. If not, it can be retrieved via the world wide web at http://www.erlang.org/.
@@ -100,6 +92,6 @@ EXHIBIT A.
 Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License.
 
 The Initial Developer of the Original Code is Ericsson Utvecklings AB. Portions created by Ericsson are Copyright 1999, Ericsson Utvecklings AB. All Rights Reserved.''
+</optional>
 </body>
 </license>
-</SPDX>

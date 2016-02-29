@@ -1,18 +1,18 @@
-<SPDX>
-<license identifier="CECILL-2.1">
+<license name="CeCILL Free Software License Agreement v2.1" identifier="CECILL-2.1">
+<body>
 <title>
 CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL
 
 Version 2.1 du 2013-06-21
 </title>
-<body>
+<optional>
 Avertissement
 
 Ce contrat est une licence de logiciel libre issue d'une concertation entre ses auteurs afin que le respect de deux grands principes préside à sa rédaction:
 
-     * d'une part, le respect des principes de diffusion des logiciels libres: accès au code source, droits étendus conférés aux utilisateurs, 
+     <b>*</b> d'une part, le respect des principes de diffusion des logiciels libres: accès au code source, droits étendus conférés aux utilisateurs, 
 
-     * d'autre part, la désignation d'un droit applicable, le droit français, auquel elle est conforme, tant au regard du droit de la responsabilité civile que du droit de la propriété intellectuelle et de la protection qu'il offre aux auteurs et titulaires des droits patrimoniaux sur un logiciel.
+     <b>*</b> d'autre part, la désignation d'un droit applicable, le droit français, auquel elle est conforme, tant au regard du droit de la responsabilité civile que du droit de la propriété intellectuelle et de la protection qu'il offre aux auteurs et titulaires des droits patrimoniaux sur un logiciel.
 
 Les auteurs de la licence CeCILL (Ce[a] C[nrs] I[nria] L[ogiciel] L[ibre]) sont:
 
@@ -30,13 +30,13 @@ L'exercice de ces libertés est assorti de certains devoirs à la charge des uti
 
 L'accessibilité au code source et les droits de copie, de modification et de redistribution qui en découlent ont pour contrepartie de n'offrir aux utilisateurs qu'une garantie limitée et de ne faire peser sur l'auteur du logiciel, le titulaire des droits patrimoniaux et les concédants successifs qu'une responsabilité restreinte.
 
-A cet égard l'attention de l'utilisateur est attirée sur les risques associés au chargement, à l'utilisation, à la modification et/ou au développement et à la reproduction du logiciel par l'utilisateur étant donné sa spécificité de logiciel libre, qui peut le rendre complexe à manipuler et qui le réserve donc à des développeurs ou des professionnels avertis possédant des connaissances informatiques approfondies. Les utilisateurs sont donc invités à charger et tester l'adéquation du logiciel à leurs besoins dans des conditions permettant d'assurer la sécurité de leurs systèmes et/ou de leurs données et, plus généralement, à l'utiliser et l'exploiter dans les mêmes conditions de sécurité. Ce contrat peut être reproduit et diffusé librement, sous réserve de le conserver en l'état, sans ajout ni suppression de clauses.
+<b>A</b> cet égard l'attention de l'utilisateur est attirée sur les risques associés au chargement, à l'utilisation, à la modification et/ou au développement et à la reproduction du logiciel par l'utilisateur étant donné sa spécificité de logiciel libre, qui peut le rendre complexe à manipuler et qui le réserve donc à des développeurs ou des professionnels avertis possédant des connaissances informatiques approfondies. Les utilisateurs sont donc invités à charger et tester l'adéquation du logiciel à leurs besoins dans des conditions permettant d'assurer la sécurité de leurs systèmes et/ou de leurs données et, plus généralement, à l'utiliser et l'exploiter dans les mêmes conditions de sécurité. Ce contrat peut être reproduit et diffusé librement, sous réserve de le conserver en l'état, sans ajout ni suppression de clauses.
 
 Ce contrat est susceptible de s'appliquer à tout logiciel dont le titulaire des droits patrimoniaux décide de soumettre l'exploitation aux dispositions qu'il contient.
 
-Une liste de questions fréquemment posées se trouve sur le site web officiel de la famille des licences CeCILL (http://www.cecill.info/index.fr.html) pour toute clarification qui serait nécessaire. 
-
- Article 1 - DEFINITIONS
+Une liste de questions fréquemment posées se trouve sur le site web officiel de la famille des licences CeCILL (http://www.cecill.info/index.fr.html) pour toute clarification qui serait nécessaire.
+</optional>
+Article 1 - DEFINITIONS
 
 Dans ce contrat, les termes suivants, lorsqu'ils seront écrits avec une lettre capitale, auront la signification suivante:
 
@@ -86,9 +86,9 @@ Le Contrat a pour objet la concession par le Concédant au Licencié d'une licen
 
 <b>3.1</b> L'acceptation par le Licencié des termes du Contrat est réputée acquise du fait du premier des faits suivants:
 
-     * (i) le chargement du Logiciel par tout moyen notamment par téléchargement à partir d'un serveur distant ou par chargement à partir d'un support physique; 
+     <b>*</b> (i) le chargement du Logiciel par tout moyen notamment par téléchargement à partir d'un serveur distant ou par chargement à partir d'un support physique; 
 
-     * (ii) le premier exercice par le Licencié de l'un quelconque des droits concédés par le Contrat.
+     <b>*</b> (ii) le premier exercice par le Licencié de l'un quelconque des droits concédés par le Contrat.
 
 <b>3.2</b> Un exemplaire du Contrat, contenant notamment un avertissement relatif aux spécificités du Logiciel, à la restriction de garantie et à la limitation à un usage par des utilisateurs expérimentés a été mis à disposition du Licencié préalablement à son acceptation telle que définie à l'article 3.1 &lt;#acceptation-acquise&gt; ci dessus et le Licencié reconnaît en avoir pris connaissance. 
 
@@ -253,4 +253,3 @@ Le Contrat est rédigé en langue française et en langue anglaise, ces deux ver
 <b>13.2</b> A défaut d'accord amiable dans un délai de deux (2) mois à compter de leur survenance et sauf situation relevant d'une procédure d'urgence, les différends ou litiges seront portés par la Partie la plus diligente devant les Tribunaux compétents de Paris.
 </body>
 </license>
-</SPDX>

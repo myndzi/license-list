@@ -1,8 +1,7 @@
-<SPDX>
-<license identifier="Eurosym">
+<license name="Eurosym License" identifier="Eurosym">
+<body>
 <copyright>Copyright (c) 1999-2002 Henrik Theiling</copyright>
 <title>Licence Version 2</title>
-<body>
 This software is provided 'as-is', without warranty of any kind, express or implied. In no event will the authors or copyright holders be held liable for any damages arising from the use of this software.
 
 Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
@@ -20,4 +19,3 @@ Permission is granted to anyone to use this software for any purpose, including 
 This licence is governed by the Laws of Germany. Disputes shall be settled by Saarbruecken City Court.
 </body>
 </license>
-</SPDX>

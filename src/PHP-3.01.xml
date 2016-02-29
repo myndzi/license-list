@@ -1,8 +1,7 @@
-<SPDX>
-<license identifier="PHP-3.01">
+<license name="PHP License v3.01" identifier="PHP-3.01">
+<body>
 <title>The PHP License, version 3.01</title>
 <copyright>Copyright (c) 1999 - 2012 The PHP Group. All rights reserved.</copyright>
-<body>
 Redistribution and use in source and binary forms, with or without modification, is permitted provided that the following conditions are met:
 
 <b>1.</b> Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
@@ -28,4 +27,3 @@ For more information on the PHP Group and the PHP project, please see &lt;http:/
 PHP includes the Zend Engine, freely available at &lt;http://www.zend.com&gt;.
 </body>
 </license>
-</SPDX>

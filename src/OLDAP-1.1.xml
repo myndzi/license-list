@@ -1,16 +1,17 @@
-<SPDX>
-<license identifier="OLDAP-1.1">
+<license name="Open LDAP Public License v1.1" identifier="OLDAP-1.1">
+<body>
 <title>
 The OpenLDAP Public License
 Version 1.1, 25 August 1998
 </title>
 <copyright>Copyright 1998, The OpenLDAP Foundation. All Rights Reserved.</copyright>
-<optional>Note: This license is derived from the "Artistic License" as distributed with the Perl Programming Language. Its terms are different from those of the "Artistic License."</optional>
-<body>
+<title>
+Note: This license is derived from the "Artistic License" as distributed with the Perl Programming Language. Its terms are different from those of the "Artistic License." 
+
 PREAMBLE
 
 The intent of this document is to state the conditions under which a Package may be copied, such that the Copyright Holder maintains some semblance of artistic control over the development of the package, while giving the users of the package the right to use and distribute the Package in a more-or-less customary fashion, plus the right to make reasonable modifications.
-
+</title>
 Definitions:
 
      "Package" refers to the collection of files distributed by the Copyright Holder, and derivatives of that collection of files created through textual modification.
@@ -58,8 +59,6 @@ Definitions:
 <b>8.</b> The name of the Copyright Holder may not be used to endorse or promote products derived from this software without specific prior written permission.
 
 <b>9.</b> THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
-
-The End
+<optional>The End</optional>
 </body>
 </license>
-</SPDX>

@@ -1,10 +1,10 @@
-<SPDX>
-<license identifier="CATOSL-1.1">
+<license name="Computer Associates Trusted Open Source License 1.1" identifier="CATOSL-1.1">
+<body>
 <title>
 Computer Associates Trusted Open Source License
 Version 1.1
 </title>
-<body>
+<optional>
 PLEASE READ THIS DOCUMENT CAREFULLY AND IN ITS ENTIRETY. THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS COMPUTER ASSOCIATES TRUSTED OPEN SOURCE LICENSE ("LICENSE"). ANY USE, REPRODUCTION, MODIFICATION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES THE RECIPIENT'S ACCEPTANCE OF THIS LICENSE.
 
 License Background
@@ -14,7 +14,7 @@ Computer Associates International, Inc. (CA) believes in open source. We believe
 This License is intended to permit contributors and recipients of the Program to use the Program, including its source code, freely and without many of the concerns of some other open source licenses. Although we expect the underlying Program, and Contributions (as defined below) made to such Program, to remain open, this License is designed to permit you to maintain your own software programs free of this License unless you choose to do so. Thus, only your Contributions to the Program must be distributed under the terms of this License.
 
 The provisions that follow set forth the terms and conditions under which you may use the Program.
-
+</optional>
 <b>1.</b> DEFINITIONS
 
 <b>1.1</b> Contribution means (a) in the case of CA, the Original Program; and (b) in the case of each Contributor (including CA), changes and additions to the Program, where such changes and/or additions to the Program originate from and are distributed by that particular Contributor to unaffiliated third parties. A Contribution originates from a Contributor if it was added to the Program by such Contributor itself or anyone acting on such Contributors behalf. Contributions do not include additions to the Program which: (x) are separate modules of software distributed in conjunction with the Program under their own license agreement, and (y) are not derivative works of the Program.
@@ -47,17 +47,17 @@ The provisions that follow set forth the terms and conditions under which you ma
 
 <b>3.1</b> If the Program is distributed in object code form, then a prominent notice must be included in the code itself as well as in any related documentation, stating that the source code for the Program is available from the Contributor with information on how and where to obtain the source code. A Contributor may choose to distribute the Program in object code form under its own license agreement, provided that:
 
-     * it complies with the terms and conditions of this License; and
-     * its license agreement:
-          * effectively disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose, to the maximum extent permitted by applicable law;
-          * effectively excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits, to the maximum extent permitted by applicable law;
-          * states that any provisions which are inconsistent with this License are offered by that Contributor alone and not by any other party; and
-          * states that source code for the Program is available from such Contributor at the cost of distribution, and informs licensees how to obtain it in a reasonable manner.
+     <b>*</b> it complies with the terms and conditions of this License; and
+     <b>*</b> its license agreement:
+          <b>*</b> effectively disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose, to the maximum extent permitted by applicable law;
+          <b>*</b> effectively excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits, to the maximum extent permitted by applicable law;
+          <b>*</b> states that any provisions which are inconsistent with this License are offered by that Contributor alone and not by any other party; and
+          <b>*</b> states that source code for the Program is available from such Contributor at the cost of distribution, and informs licensees how to obtain it in a reasonable manner.
    
 <b>3.2</b> When the Program is made available in source code form:
 
-     * it must be made available under this License; and
-     * a copy of this License must be included with each copy of the Program.
+     <b>*</b> it must be made available under this License; and
+     <b>*</b> a copy of this License must be included with each copy of the Program.
  
 <b>3.3</b> This License is intended to facilitate the commercial distribution of the Program by any Contributor. However, Contributors may only charge Recipients a one-time, upfront fee for the distribution of the Program. Contributors may not charge Recipients any recurring charge, license fee, or any ongoing royalty for the Recipients exercise of its rights under this License to the Program. Contributors shall make the source code for the Contributor Version they distribute available at a cost, if any, equal to the cost to the Contributor to physically copy and distribute the work. It is not the intent of this License to prohibit a Contributor from charging fees for any service or maintenance that a Contributor may charge to a Recipient, so long as such fees are not an attempt to circumvent the foregoing restrictions on charging royalties or other recurring fees for the Program itself.
 
@@ -118,4 +118,3 @@ The provisions that follow set forth the terms and conditions under which you ma
 <b>11.7</b> This License constitutes the entire agreement between the parties with respect to the subject matter hereof.
 </body>
 </license>
-</SPDX>

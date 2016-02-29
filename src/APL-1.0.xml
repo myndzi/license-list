@@ -1,11 +1,9 @@
-<SPDX>
-<license identifier="APL-1.0">
-<header>&lt;various notices depending on terms chosen for license - see Exhibit A&gt;</header>
+<license name="Adaptive Public License 1.0" identifier="APL-1.0">
+<body>
 <title>
 ADAPTIVE PUBLIC LICENSE
 Version 1.0
 </title>
-<body>
 THE LICENSED WORK IS PROVIDED UNDER THE TERMS OF THIS ADAPTIVE PUBLIC LICENSE ("LICENSE"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE LICENSED WORK CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS LICENSE AND ITS TERMS, WHETHER OR NOT SUCH RECIPIENT READS THE TERMS OF THIS LICENSE. "LICENSED WORK" AND "RECIPIENT" ARE DEFINED BELOW.
 
 IMPORTANT NOTE: This License is "adaptive", and the generic version or another version of an Adaptive Public License should not be relied upon to determine your rights and obligations under this License. You must read the specific Adaptive Public License that you receive with the Licensed Work, as certain terms are defined at the outset by the Initial Contributor.
@@ -206,10 +204,9 @@ Each Recipient is solely responsible for determining the appropriateness of usin
 <b>10.7.</b> Each of the terms "including", "include" and "includes", when used in this License, is not limiting whether or not non-limiting language (such as "without limitation" or "but not limited to" or words of similar import) is used with reference thereto.
 
 <b>10.8.</b> The parties hereto acknowledge they have expressly required that this License and notices relating thereto be drafted in the English language.
-
-//***THE LICENSE TERMS END HERE (OTHER THAN AS SET OUT IN EXHIBIT A).***//
-</body>
 <optional>
+//***THE LICENSE TERMS END HERE (OTHER THAN AS SET OUT IN EXHIBIT A).***//
+
 EXHIBIT A (to the Adaptive Public License)
 
 PART 1: INITIAL CONTRIBUTOR AND DESIGNATED WEB SITE
@@ -300,5 +297,5 @@ PART 7: SAMPLE REQUIREMENTS FOR THE DESCRIPTION OF DISTRIBUTED MODIFICATIONS
 
 Each Subsequent Contributor (including the Initial Contributor where the Initial Contributor qualifies as a Subsequent Contributor) is invited (but not required) to cause each Subsequent Work created or contributed to by that Subsequent Contributor to contain a file documenting the changes such Subsequent Contributor made to create that Subsequent Work and the date of any change. //***EXHIBIT A ENDS HERE.***//
 </optional>
+</body>
 </license>
-</SPDX>

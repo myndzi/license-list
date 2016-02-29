@@ -1,7 +1,6 @@
-<SPDX>
-<license identifier="Libpng">
-<optional>This copy of the libpng notices is provided for your convenience.  In case of any discrepancy between this copy and the notices in the file png.h that is included in the libpng distribution, the latter shall prevail.</optional>
+<license name="libpng License" identifier="Libpng">
 <body>
+<title>This copy of the libpng notices is provided for your convenience.  In case of any discrepancy between this copy and the notices in the file png.h that is included in the libpng distribution, the latter shall prevail.</title>
 COPYRIGHT NOTICE, DISCLAIMER, and LICENSE:
 
 If you modify libpng you may insert additional notices immediately following this sentence. 
@@ -78,4 +77,3 @@ glennrp at users.sourceforge.net
 December 9, 2010
 </body>
 </license>
-</SPDX>

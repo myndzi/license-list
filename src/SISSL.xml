@@ -1,5 +1,4 @@
-<SPDX>
-<license identifier="SISSL">
+<license name="Sun Industry Standards Source License v1.1" identifier="SISSL">
 <header>
 The contents of this file are subject to the Sun Standards License Version 1.1 (the "License");
 You may not use this file except in compliance with the License. You may obtain a copy of the
@@ -20,8 +19,8 @@ All Rights Reserved.
 
 Contributor(s): <alt name="contributor" match=".+">_____</alt>
 </header>
-<title>Sun Industry Standards Source License - Version 1.1</title>
 <body>
+<title>Sun Industry Standards Source License - Version 1.1</title>
 <b>1.0</b> DEFINITIONS
 
      <b>1.1</b> "Commercial Use" means distribution or otherwise making the Original Code available to a third party.
@@ -111,7 +110,7 @@ U.S. Government: If this Software is being acquired by or on behalf of the U.S. 
 <b>11.0</b> MISCELLANEOUS
 
 This License represents the complete agreement concerning subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. This License shall be governed by California law provisions (except to the extent applicable law, if any, provides otherwise), excluding its conflict-of-law provisions. With respect to disputes in which at least one party is a citizen of, or an entity chartered or registered to do business in the United States of America, any litigation relating to this License shall be subject to the jurisdiction of the Federal Courts of the Northern District of California, with venue lying in Santa Clara County, California, with the losing party responsible for costs, including without limitation, court costs and reasonable attorneys' fees and expenses. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Any law or regulation which provides that the language of a contract shall be construed against the drafter shall not apply to this License.
-
+<optional>
 EXHIBIT A - Sun Standards License
 
 "The contents of this file are subject to the Sun Standards License Version 1.1 (the "License"); You may not use this file except in compliance with the License. You may obtain a copy of the License at _______________________________.
@@ -131,11 +130,11 @@ are Copyright (C): _______________________________________
 All Rights Reserved.
 
 Contributor(s): _______________________________________
- EXHIBIT B - Standards
+</optional>
+EXHIBIT B - Standards
 
 The Standard is defined as the following:
 OpenOffice.org XML File Format Specification, located at http://xml.openoffice.org
 OpenOffice.org Application Programming Interface Specification, located at  http://api.openoffice.org
 </body>
 </license>
-</SPDX>

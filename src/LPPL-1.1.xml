@@ -1,5 +1,4 @@
-<SPDX>
-<license identifier="LPPL-1.1">
+<license name="LaTeX Project Public License v1.1" identifier="LPPL-1.1">
 <header>
 Copyright <alt name="copyright" match=".+">2001 M. Y. Name</alt>
  
@@ -10,6 +9,7 @@ and version 1.1 or later is part of all distributions of LaTeX version 1999/06/0
 
 This program consists of <alt name="the work" match=".+">the files pig.dtx and pig.ins</alt>
 </header>
+<body>
 <title>
 The LaTeX Project Public License 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -17,9 +17,8 @@ The LaTeX Project Public License
 LPPL Version 1.1 1999-07-10
 </title>
 <copyright>Copyright 1999 LaTeX3 Project</copyright>
-<body>
-Everyone is allowed to distribute verbatim copies of this license document, but modification of it is not allowed. 
-
+Everyone is allowed to distribute verbatim copies of this license document, but modification of it is not allowed.
+<title>
 PREAMBLE 
 ========
 
@@ -37,7 +36,7 @@ We, the LaTeX3 Project, believe that the conditions below give you the freedom t
 
 CONDITIONS ON DISTRIBUTION AND MODIFICATION 
 ===========================================
-
+</title>
 You may distribute a complete, unmodified copy of The Program. Distribution of only part of The Program is not allowed.
 
 You may not modify in any way a file of The Program that bears a legal notice forbidding modification of that file.
@@ -87,13 +86,13 @@ Additional Conditions on LaTeX Software Files
 
 If a file of The Program is intended to be used with LaTeX (that is, if it is a LaTeX software file), then the following additional conditions, which supplement and/or supersede the conditions above, apply to the file according to its filename extension:
 
-     - You may not modify any file with filename extension `.ins' since these are installation files containing the legal notices that are placed in the files they generate. 
+     <b>-</b> You may not modify any file with filename extension `.ins' since these are installation files containing the legal notices that are placed in the files they generate. 
 
-     - You may distribute modified versions of files with filename extension `.fd' (LaTeX font definition files) under the standard conditions of the LPPL as described above. You may also distribute such modified LaTeX font definition files with their original names provided that: 
+     <b>-</b> You may distribute modified versions of files with filename extension `.fd' (LaTeX font definition files) under the standard conditions of the LPPL as described above. You may also distribute such modified LaTeX font definition files with their original names provided that: 
           <b>(1)</b> the only changes to the original files either enable use of available fonts or prevent attempts to access unavailable fonts; 
           <b>(2)</b> you also distribute the original, unmodified files (TeX input paths can be used to control which set of LaTeX font definition files is actually used by TeX).
 
-     - You may distribute modified versions of files with filename extension `.cfg' (configuration files) with their original names. The Program may (and usually will) specify the range of commands that are allowed in a particular configuration file. 
+     <b>-</b> You may distribute modified versions of files with filename extension `.cfg' (configuration files) with their original names. The Program may (and usually will) specify the range of commands that are allowed in a particular configuration file. 
 
 Because of portability and exchangeability issues in LaTeX software, The LaTeX3 Project deprecates the distribution of modified versions of components of LaTeX or of generally available contributed code for them, but such distribution can meet the conditions of this license. 
 
@@ -102,8 +101,8 @@ NO WARRANTY
 
 There is no warranty for The Program. Except when otherwise stated in writing, The Copyright Holder provides The Program `as is', without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of The Program is with you. Should The Program prove defective, you assume the cost of all necessary servicing, repair, or correction.
 
-In no event unless agreed to in writing will The Copyright Holder, or any author named in the files of The Program, or any other party who may distribute and/or modify The Program as permitted below, be liable to you for damages, including any general, special, incidental or consequential damages arising out of any use of The Program or out of inability to use The Program (including, but not limited to, loss of data, data being rendered inaccurate, or losses sustained by anyone as a result of any failure of The Program to operate with any other programs), even if The Copyright Holder or said author or said other party has been advised of the possibility of such damages. 
-
+In no event unless agreed to in writing will The Copyright Holder, or any author named in the files of The Program, or any other party who may distribute and/or modify The Program as permitted below, be liable to you for damages, including any general, special, incidental or consequential damages arising out of any use of The Program or out of inability to use The Program (including, but not limited to, loss of data, data being rendered inaccurate, or losses sustained by anyone as a result of any failure of The Program to operate with any other programs), even if The Copyright Holder or said author or said other party has been advised of the possibility of such damages.
+<optional>
 WHETHER AND HOW TO DISTRIBUTE PROGRAMS UNDER THIS LICENSE 
 =========================================================
 
@@ -152,6 +151,6 @@ Noting Exceptional Files
 If The Program contains any files bearing additional conditions on modification, or on distribution of modified versions, of those files (other than those listed in `Additional Conditions on LaTeX Software Files'), then it is recommended that The Program contain a prominent file that defines the exceptional conditions, and either lists the exceptional files or defines one or more categories of exceptional files.
 
 Files containing the text of a license (such as this file) are often examples of files bearing more restrictive conditions on modification. LaTeX configuration files (with filename extension `.cfg') are examples of files bearing less restrictive conditions on the distribution of a modified version of the file. The additional conditions on LaTeX software given above are examples of declaring a category of files bearing exceptional additional conditions.
+</optional>
 </body>
 </license>
-</SPDX>

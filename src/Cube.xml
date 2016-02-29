@@ -1,8 +1,7 @@
-<SPDX>
-<license identifier="Cube">
+<license name="Cube License" identifier="Cube">
+<body>
 <title>Cube game engine source code, 20 dec 2003 release.</title>
 <copyright>Copyright (C) 2001-2003 Wouter van Oortmerssen.</copyright>
-<body>
 This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
 
 Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
@@ -18,4 +17,3 @@ additional clause specific to Cube:
      <b>4.</b> Source versions may not be "relicensed" under a different license without my explicitly written permission.
 </body>
 </license>
-</SPDX>

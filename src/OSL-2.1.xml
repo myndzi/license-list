@@ -1,11 +1,12 @@
-<SPDX>
-<license identifier="OSL-2.1">
-<title>The Open Software Licensev. 2.1</title>
+<license name="Open Software License 2.1" identifier="OSL-2.1">
 <body>
+<title>
+The Open Software Licensev. 2.1
+
 This Open Software License (the "License") applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following notice immediately following the copyright notice for the Original Work:
 
      Licensed under the Open Software License version 2.1
-
+</title>
 <b>1)</b> Grant of Copyright License. Licensor hereby grants You a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license to do the following:
 
      <b>a)</b> to reproduce the Original Work in copies;
@@ -49,4 +50,3 @@ This Open Software License (the "License") applies to any original work of autho
 This license is Copyright (C) 2003-2004 Lawrence E. Rosen. All rights reserved. Permission is hereby granted to copy and distribute this license without modification. This license may not be modified without the express written permission of its copyright owner.
 </body>
 </license>
-</SPDX>

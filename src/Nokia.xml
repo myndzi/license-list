@@ -1,11 +1,10 @@
-<SPDX>
-<license identifier="Nokia">
+<license name="Nokia Open Source License" identifier="Nokia">
+<body>
 <title>
 Nokia Open Source License (NOKOS License) 
 
 Version 1.0a
 </title>
-<body>
 <b>1.</b> DEFINITIONS.
 
 "Affiliates" of a party shall mean an entity
@@ -147,7 +146,7 @@ This License is governed by the laws of Finland excluding its conflict-of-law pr
 
 <b>11.</b> RESPONSIBILITY FOR CLAIMS.
 As between Nokia and the Contributors, each party is responsible for claims and damages arising, directly or indirectly, out of its utilization of rights under this License and You agree to work with Nokia and Contributors to distribute such responsibility on an equitable basis. Nothing herein is intended or shall be deemed to constitute any admission of liability.
-
+<optional>
 EXHIBIT A
 
 The contents of this file are subject to the NOKOS License Version 1.0 (the "License"); you may not use this file except in compliance with the License.
@@ -161,6 +160,6 @@ ______________________________________.
 Copyright © &lt;year&gt; Nokia and others. All Rights Reserved.
 
 Contributor(s): ______________________________________.
+</optional>
 </body>
 </license>
-</SPDX>

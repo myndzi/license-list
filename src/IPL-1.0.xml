@@ -1,7 +1,6 @@
-<SPDX>
-<license identifier="IPL-1.0">
-<title>IBM Public License Version 1.0</title>
+<license name="IBM Public License v1.0" identifier="IPL-1.0">
 <body>
+<title>IBM Public License Version 1.0</title>
 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS IBM
 PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION
 OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
@@ -217,4 +216,3 @@ Agreement more than one year after the cause of action arose. Each
 party waives its rights to a jury trial in any resulting litigation.
 </body>
 </license>
-</SPDX>

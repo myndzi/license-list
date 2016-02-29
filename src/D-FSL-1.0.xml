@@ -1,22 +1,11 @@
-<SPDX>
-<license identifier="D-FSL-1.0">
-<header>
-Copyright (C) 20[jj] [Name des Rechtsinhabers]. 
-
-Dieses Programm kann durch jedermann gemäß den 
-Bestimmungen der Deutschen Freien Software Lizenz 
-genutzt werden. 
-
-Die Lizenz kann unter &lt;http://www.d-fsl.de&gt; 
-abgerufen werden.
-</header>
-<title>Deutsche Freie Software Lizenz</title>
-<copyright>
-(c) Ministerium für Wissenschaft und Forschung Nordrhein-Westfalen 2004
-
-Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtsfragen der Freien und Open Source Software - (http://www.ifross.de).
-</copyright>
+<!-- REVIEW -->
+<license name="Deutsche Freie Software Lizenz" identifier="D-FSL-1.0">
 <body>
+<title>Deutsche Freie Software Lizenz</title>
+<copyright>(c) Ministerium für Wissenschaft und Forschung Nordrhein-Westfalen 2004</copyright>
+<title>
+Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtsfragen der Freien und Open Source Software - (http://www.ifross.de).
+
 Präambel
 
 Software ist mehr als ein Wirtschaftsgut. Sie ist die technische Grundlage der Informationsgesellschaft. Die Frage der Teilhabe der Allgemeinheit ist deswegen von besonderer Bedeutung. Herkömmlich lizenzierte Programme werden nur im Object Code vertrieben, der Nutzer darf das Programm weder verändern noch weitergeben. Das Lizenzmodell der Freien Software (synonym "Open Source Software") gewährt Ihnen dagegen umfassende Freiheiten im Umgang mit dem Programm. Die Deutsche Freie Software Lizenz folgt diesem Lizenzmodell. Sie gewährt Ihnen das Recht, das Programm in umfassender Weise zu nutzen. Es ist Ihnen gestattet, das Programm nach Ihren Vorstellungen zu verändern, in veränderter oder unveränderter Form zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen. Diese Rechte werden unentgeltlich eingeräumt.
@@ -24,8 +13,8 @@ Software ist mehr als ein Wirtschaftsgut. Sie ist die technische Grundlage der I
 Die Deutsche Freie Software Lizenz verbindet die Rechtseinräumung allerdings mit Pflichten, die dem Zweck dienen, das freie Zirkulieren des Programms und aller veröffentlichten Fortentwicklungen zu sichern. Wenn Sie das Programm verbreiten oder öffentlich zugänglich machen, dann müssen Sie jedem, der das Programm von Ihnen erhält, eine Kopie dieser Lizenz mitliefern und den Zugriff auf den Source Code ermöglichen. Eine weitere Pflicht betrifft Fortentwicklungen des Programms. Änderungen am Programm, die Sie öffentlich verbreiten oder zugänglich machen, müssen nach den Bestimmungen dieser Lizenz frei gegeben werden.
 
 Die Deutsche Freie Software Lizenz nimmt auf die besonderen Anforderungen des deutschen und europäischen Rechts Rücksicht. Sie ist zweisprachig gestaltet und damit auch auf den internationalen Vertrieb ausgerichtet.
-
-§ 0 Definitionen
+</title>
+<b>§</b> 0 Definitionen
 
 Dokumentation: Die Beschreibung des Aufbaus und/oder der Struktur der Programmierung und/oder der Funktionalitäten des Programms, unabhängig davon, ob sie im Source Code oder gesondert vorgenommen wird.
 
@@ -51,7 +40,7 @@ Verbreiten: Die öffentliche Weitergabe körperlicher Vervielfältigungsstücke,
 
 Vollständiger Source Code: Der Source Code in der für die Erstellung bzw. die Bearbeitung benutzten Form zusammen mit den zur Übersetzung und Installation erforderlichen Konfigurationsdateien und Software-Werkzeugen, sofern diese in der benötigten Form nicht allgemein gebräuchlich (z.B. Standard-Kompiler) oder für jedermann lizenzgebührenfrei im Internet abrufbar sind.
 
-§ 1 Rechte
+<b>§</b> 1 Rechte
 
 <b>(1)</b> Sie dürfen das Programm in unveränderter Form vervielfältigen, verbreiten und öffentlich zugänglich machen.
 
@@ -59,7 +48,7 @@ Vollständiger Source Code: Der Source Code in der für die Erstellung bzw. die 
 
 <b>(3)</b> Sie erhalten die Rechte unentgeltlich.
 
-§ 2 Pflichten beim Vertrieb
+<b>§</b> 2 Pflichten beim Vertrieb
 
 <b>(1)</b> Wenn Sie das Programm verbreiten oder öffentlich zugänglich machen, sei es in unveränderter oder veränderter Form, sei es in einer Kombination mit anderen Programmen oder in Verbindung mit Hardware, dann müssen sie mitliefern:
 <b>1.</b> alle Vermerke im Source Code und/oder Object Code, die auf diese Lizenz hinweisen;
@@ -77,7 +66,7 @@ ebenfalls angezeigt werden.
 
 <b>(4)</b> Sofern Sie mit dem Programm eine Dokumentation erhalten haben, muss diese Dokumentation entsprechend mitgeliefert werden, es sei denn, die freie Mitlieferung der Dokumentation ist Ihnen aufgrund der Lizenz für die Dokumentation nicht gestattet.
 
-§ 3 Weitere Pflichten beim Vertrieb veränderter Versionen
+<b>§</b> 3 Weitere Pflichten beim Vertrieb veränderter Versionen
 
 <b>(1)</b> Veränderte Versionen des Programms dürfen Sie nur unter den Bedingungen dieser Lizenz verbreiten oder öffentlich zugänglich machen, so dass Dritte das veränderte Programm insgesamt unter dieser Lizenz nutzen können.
 
@@ -93,7 +82,7 @@ ebenfalls angezeigt werden.
 
 <b>(6)</b> Wenn Sie an der veränderten Version des Programms ein anderes Schutzrecht als ein Urheberrecht erwerben, insbesondere ein Patent oder Gebrauchsmuster, lizenzieren Sie dieses Schutzrecht für veränderte und unveränderte Versionen des Programms in dem Umfang, der erforderlich ist, um die Rechte aus dieser Lizenz wahrnehmen zu können.
 
-§ 4 Weitere Pflichten beim Vertrieb im Object Code
+<b>§</b> 4 Weitere Pflichten beim Vertrieb im Object Code
 
 <b>(1)</b> Wenn Sie das Programm nur im Object Code verbreiten, dann müssen Sie zusätzlich zu den in § 2 und § 3 geregelten Pflichten entweder
 <b>1.</b> den vollständigen Source Code im Internet öffentlich zugänglich machen und bei der Verbreitung des Object Codes deutlich auf die vollständige Internetadresse hinweisen, unter der der Source Code abgerufen werden kann oder
@@ -103,7 +92,7 @@ ebenfalls angezeigt werden.
 
 <b>(3)</b> Sofern Sie mit dem Programm eine Dokumentation erhalten haben, muss diese Dokumentation entsprechend der Absätze 1 und 2 mitgeliefert werden, es sei denn, die freie Mitlieferung der Dokumentation ist Ihnen aufgrund der Lizenz für die Dokumentation nicht gestattet.
 
-§ 5 Vertragsschluss
+<b>§</b> 5 Vertragsschluss
 
 <b>(1)</b> Mit dieser Lizenz wird Ihnen und jeder anderen Person ein Angebot auf Abschluss eines Vertrages über die Nutzung des Programms unter den Bedingungen der Deutschen Freien Softwarelizenz unterbreitet.
 
@@ -117,19 +106,19 @@ ebenfalls angezeigt werden.
 
 <b>(4)</b> Sie und jeder andere Lizenznehmer erhalten die Rechte aus dieser Lizenz direkt von den Rechtsinhabern. Eine Unterlizenzierung oder Übertragung der Rechte ist nicht gestattet.
 
-§ 6 Beendigung der Rechte bei Zuwiderhandlung
+<b>§</b> 6 Beendigung der Rechte bei Zuwiderhandlung
 
 <b>(1)</b> Jede Verletzung Ihrer Verpflichtungen aus dieser Lizenz führt zu einer automatischen Beendigung Ihrer Rechte aus dieser Lizenz.
 
 <b>(2)</b> Die Rechte Dritter, die das Programm oder Rechte an dem Programm von Ihnen erhalten haben, bleiben hiervon unberührt.
 
-§ 7 Haftung und Gewährleistung
+<b>§</b> 7 Haftung und Gewährleistung
 
 <b>(1)</b> Für entgegenstehende Rechte Dritter haften die Rechtsinhaber nur, sofern sie Kenntnis von diesen Rechten hatten, ohne Sie zu informieren.
 
 <b>(2)</b> Die Haftung für Fehler und sonstige Mängel des Programms richtet sich nach den außerhalb dieser Lizenz getroffenen Vereinbarungen zwischen Ihnen und den Rechtsinhabern oder, wenn eine solche Vereinbarung nicht existiert, nach den gesetzlichen Regelungen.
 
-§ 8 Verträge mit Dritten
+<b>§</b> 8 Verträge mit Dritten
 
 <b>(1)</b> Diese Lizenz regelt nur die Beziehung zwischen Ihnen und den Rechtsinhabern. Sie ist nicht Bestandteil der Verträge zwischen Ihnen und Dritten.
 
@@ -137,7 +126,7 @@ ebenfalls angezeigt werden.
 
 <b>(3)</b> Diese Lizenz verpflichtet Sie nicht, das Programm an Dritte weiterzugeben. Es steht Ihnen frei zu entscheiden, wem Sie das Programm zugänglich machen. Sie dürfen aber die weitere Nutzung durch Dritte nicht durch den Einsatz technischer Schutzmaßnahmen, insbesondere durch den Einsatz von Kopierschutzvorrichtungen jeglicher Art, verhindern oder erschweren. Eine passwortgeschützte Zugangsbeschränkung oder die Nutzung in einem Intranet wird nicht als technische Schutzmaßnahme angesehen.
 
-§ 9 Text der Lizenz
+<b>§</b> 9 Text der Lizenz
 
 <b>(1)</b> Diese Lizenz ist in deutscher und englischer Sprache abgefasst. Beide Fassungen sind gleich verbindlich. Es wird unterstellt, dass die in der Lizenz verwandten Begriffe in beiden Fassungen dieselbe Bedeutung haben. Ergeben sich dennoch Unterschiede, so ist die Bedeutung maßgeblich, welche die Fassungen unter Berücksichtigung des Ziels und Zwecks der Lizenz am besten miteinander in Einklang bringt.
 
@@ -145,11 +134,10 @@ ebenfalls angezeigt werden.
 
 <b>(3)</b> Sie dürfen diese Lizenz in unveränderter Form vervielfältigen, verbreiten und öffentlich zugänglich machen.
 
-§ 10 Anwendbares Recht
+<b>§</b> 10 Anwendbares Recht
 
 Auf diese Lizenz findet deutsches Recht Anwendung.
-
-
+<optional>
 Anhang: Wie unterstellen Sie ein Programm der Deutschen Freien Software Lizenz?
 Um jedermann den Abschluss dieser Lizenz zu ermöglichen, wird empfohlen, das Programm mit folgendem Hinweis auf die Lizenz zu versehen:
 
@@ -158,6 +146,6 @@ Um jedermann den Abschluss dieser Lizenz zu ermöglichen, wird empfohlen, das Pr
 Dieses Programm kann durch jedermann gemäß den Bestimmungen der Deutschen Freien Software Lizenz genutzt werden.
 
 Die Lizenz kann unter http://www.d-fsl.de abgerufen werden."
+</optional>
 </body>
 </license>
-</SPDX>

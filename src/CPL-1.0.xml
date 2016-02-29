@@ -1,7 +1,6 @@
-<SPDX>
-<license identifier="CPL-1.0">
-<title>Common Public License Version 1.0</title>
+<license name="Common Public License 1.0" identifier="CPL-1.0">
 <body>
+<title>Common Public License Version 1.0</title>
 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS COMMON PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
 
 <b>1.</b> DEFINITIONS
@@ -38,7 +37,7 @@ where such changes and/or additions to the Program originate from and are distri
 
 <b>3.</b> REQUIREMENTS
 
-A Contributor may choose to distribute the Program in object code form under its own license agreement, provided that:
+<b>A</b> Contributor may choose to distribute the Program in object code form under its own license agreement, provided that:
 
      <b>a)</b> it complies with the terms and conditions of this Agreement; and
 
@@ -89,4 +88,3 @@ Everyone is permitted to copy and distribute copies of this Agreement, but in or
 This Agreement is governed by the laws of the State of New York and the intellectual property laws of the United States of America. No party to this Agreement will bring a legal action under this Agreement more than one year after the cause of action arose. Each party waives its rights to a jury trial in any resulting litigation.
 </body>
 </license>
-</SPDX>

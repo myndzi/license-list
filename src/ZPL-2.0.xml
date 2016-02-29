@@ -1,8 +1,7 @@
-<SPDX>
-<license identifier="ZPL-2.0">
+<license name="Zope Public License 2.0" identifier="ZPL-2.0">
+<body>
 <title>Zope Public License (ZPL) Version 2.0</title>
 <copyright>This software is Copyright (c) Zope Corporation (tm) and Contributors. All rights reserved.</copyright>
-<body>
 This license has been certified as open source. It has also been designated as GPL compatible by the Free Software Foundation (FSF).
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -24,4 +23,3 @@ THIS SOFTWARE IS PROVIDED BY ZOPE CORPORATION ``AS IS'' AND ANY EXPRESSED OR IMP
 This software consists of contributions made by Zope Corporation and many individuals on behalf of Zope Corporation.  Specific attributions are listed in the accompanying credits file.
 </body>
 </license>
-</SPDX>

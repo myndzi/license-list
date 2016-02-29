@@ -1,8 +1,7 @@
-<SPDX>
-<license identifier="Naumen">
+<license name="Naumen Public License" identifier="Naumen">
+<body>
 <title>NAUMEN Public License</title>
 <copyright>This software is Copyright (c) NAUMEN (tm) and Contributors. All rights reserved.</copyright>
-<body>
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 <b>1.</b> Redistributions in source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
@@ -22,4 +21,3 @@ THIS SOFTWARE IS PROVIDED BY NAUMEN "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANT
 This software consists of contributions made by NAUMEN and Contributors. Specific attributions are listed in the accompanying credits file.
 </body>
 </license>
-</SPDX>

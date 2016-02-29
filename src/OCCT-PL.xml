@@ -1,16 +1,15 @@
-<SPDX>
-<license identifier="OCCT-PL">
+<license name="Open CASCADE Technology Public License" identifier="OCCT-PL">
+<body>
 <title>
 Open CASCADE Technology Public License
 Version 6.6, April 2013
-</title>
-<body>
+
 OPEN CASCADE releases and makes publicly available the source code of the software Open CASCADE Technology to the free software development community under the terms and conditions of this license.
 
 It is not the purpose of this license to induce you to infringe any patents or other property right claims or to contest validity of any such claims; this license has the sole purpose of protecting the integrity of the free software distribution system, which is implemented by public license practices. Many people have made generous contributions to the wide range of software distributed through that system in reliance on consistent application of that system; it is up to the author/donor to decide if he or she is willing to distribute software through any other system and a licensee cannot impose that choice.
 
 Please read this license carefully and completely before downloading this software. By downloading, using, modifying, distributing and sublicensing this software, you indicate your acceptance to be bound by the terms and conditions of this license. If you do not want to accept or cannot accept for any reasons the terms and conditions of this license, please do not download or use in any manner this software.
- 
+</title>
 <b>1.</b> Definitions
 
 Unless there is something in the subject matter or in the context inconsistent therewith, the capitalized terms used in this License shall have the following meaning.
@@ -86,7 +85,7 @@ The Initial Developer may publish new versions of this License from time to time
      <b>15.2</b> Independent Development Nothing in this License will impair the Initial Developer's right to acquire, license, develop, have others develop for it, market or distribute technology or products that perform the same or similar functions as, or otherwise compete with, Modifications, Derivative Programs, technology or products that You may develop, produce, market or distribute.
 
      <b>15.3</b> Severability If for any reason a court of competent jurisdiction finds any provision of this License, or portion thereof, to be unenforceable, that provision of the License will be enforced to the maximum extent permissible so as to effect the economic benefits and intent of the parties, and the remainder of this License will continue in full force and extent.
-
+<optional>
 END OF THE TERMS AND CONDITIONS OF THIS LICENSE
 
 OPEN CASCADE is a French société par actions simplifiée having its registered head office at 1, place des Frères Montgolfier, 78280, Guyancourt, France and main offices at 1, place des Frères Montgolfier, 78280, Guyancourt, France. Its web site is located at the following address opencascade.com
@@ -114,6 +113,6 @@ Schedule "B"
 
      Please see the License for the specific terms and conditions governing rights and limitations under the License"
      End of Schedule "B"
+</optional>
 </body>
 </license>
-</SPDX>

@@ -1,8 +1,6 @@
-<SPDX>
-<license identifier="MPL-2.0">
-<header>This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.</header>
-<title>Mozilla Public License Version 2.0</title>
+<license name="Mozilla Public License 2.0" identifier="MPL-2.0">
 <body>
+<title>Mozilla Public License Version 2.0</title>
 <b>1.</b> Definitions
 
      <b>1.1.</b> "Contributor" means each individual or legal entity that creates, contributes to the creation of, or owns Covered Software.
@@ -133,7 +131,7 @@ This License represents the complete agreement concerning the subject matter her
 
      <b>10.4.</b> Distributing Source Code Form that is Incompatible With Secondary Licenses
      If You choose to distribute Source Code Form that is Incompatible With Secondary Licenses under the terms of this version of the License, the notice described in Exhibit B of this License must be attached.
-
+<optional>
 Exhibit A - Source Code Form License Notice 
 
      This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -145,6 +143,6 @@ You may add additional accurate notices of copyright ownership.
 Exhibit B - "Incompatible With Secondary Licenses" Notice 
 
      This Source Code Form is "Incompatible With Secondary Licenses", as defined by the Mozilla Public License, v. 2.0.
+</optional>
 </body>
 </license>
-</SPDX>

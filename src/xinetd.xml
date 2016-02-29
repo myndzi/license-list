@@ -1,8 +1,7 @@
-<SPDX>
-<license identifier="xinetd">
+<license name="xinetd License" identifier="xinetd">
+<body>
 <title>ORIGINAL LICENSE: This software is</title>
 <copyright>(c) Copyright 1992 by Panagiotis Tsirigotis</copyright>
-<body>
 The author (Panagiotis Tsirigotis) grants permission to use, copy, and distribute this software and its documentation for any purpose and without fee, provided that the above copyright notice extant in files in this distribution is not removed from files included in any redistribution and that this copyright notice is also included in any redistribution.
 
 Modifications to this software may be distributed, either by distributing the modified software or by distributing patches to the original software, under the following additional terms:
@@ -26,4 +25,3 @@ I appreciate your maintaining the version string guidelines as specified in the 
 So, if you want, you may use any 2.N.* (N &gt;= 3) version string for future xinetd versions that you release. Note that I am excluding the 2.2.* line; using that would only create confusion. Naming the next release 2.3.0 would put to rest the confusion about 2.2.1 and 2.1.8.*.
 </body>
 </license>
-</SPDX>

@@ -1,17 +1,12 @@
-<SPDX>
-<license identifier="RPL-1.5">
-<header>
-Unless explicitly acquired and licensed from Licensor under another license, the contents of this file are subject to the Reciprocal Public License ("RPL") Version 1.5, or subsequent versions as allowed by the RPL, and You may not copy or use this file in either source code or executable form, except in compliance with the terms and conditions of the RPL.
-
-All software distributed under the RPL is provided strictly on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND LICENSOR HEREBY DISCLAIMS ALL SUCH WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT, OR NON-INFRINGEMENT. See the RPL for specific language governing rights and limitations under the RPL.
-</header>
+<license name="Reciprocal Public License 1.5" identifier="RPL-1.5">
+<body>
 <title>
 Reciprocal Public License 1.5 (RPL1.5)
 
 Version 1.5, July 15, 2007
 </title>
 <copyright>Copyright (C) 2001-2007 Technical Pursuit Inc., All Rights Reserved.</copyright>
-<body>
+<title>
 PREAMBLE
 
 The Reciprocal Public License (RPL) is based on the concept of reciprocity or, if you prefer, fairness.
@@ -31,7 +26,7 @@ In addition to these goals, the RPL was authored to meet the requirements of the
 The specific terms and conditions of the license are defined in the remainder of this document.
 
 LICENSE TERMS
-
+</title>
 <b>1.0</b> General; Applicability &amp; Definitions. This Reciprocal Public License Version 1.5 ("License") applies to any programs or other works as well as any and all updates or maintenance releases of said programs or works ("Software") not already covered by this License which the Software copyright holder ("Licensor") makes available containing a License Notice (hereinafter defined) from the Licensor specifying or allowing use or distribution under the terms of this License. As used in this License:
 
      <b>1.1</b> "Contributor" means any person or entity who created or contributed to the creation of an Extension.
@@ -161,7 +156,7 @@ LICENSE TERMS
      <b>13.8</b> Arbitration, Jurisdiction &amp; Venue. This License shall be governed by Colorado law provisions (except to the extent applicable law, if any, provides otherwise), excluding its conflict-of-law provisions. You expressly agree that any dispute relating to this License shall be submitted to binding arbitration under the rules then prevailing of the American Arbitration Association. You further agree that Adams County, Colorado USA is proper venue and grant such arbitration proceeding jurisdiction as may be appropriate for purposes of resolving any dispute under this License. Judgement upon any award made in arbitration may be entered and enforced in any court of competent jurisdiction. The arbitrator shall award attorney's fees and costs of arbitration to the prevailing party. Should either party find it necessary to enforce its arbitration award or seek specific performance of such award in a civil court of competent jurisdiction, the prevailing party shall be entitled to reasonable attorney's fees and costs. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. You and Licensor expressly waive any rights to a jury trial in any litigation concerning Licensed Software or this License. Any law or regulation that provides that the language of a contract shall be construed against the drafter shall not apply to this License.
 
      <b>13.9</b> Entire Agreement. This License constitutes the entire agreement between the parties with respect to the subject matter hereof.
-
+<optional>
 EXHIBIT A
 
 The License Notice below must appear in each file of the Source Code of any copy You distribute of the Licensed Software or any Extensions thereto:
@@ -173,6 +168,6 @@ All software distributed under the RPL is provided strictly on an "AS IS" basis,
 EXHIBIT B
 
 The User-Visible Attribution Notice below, when provided, must appear in each user-visible display as defined in Section 6.4 (d):
+</optional>
 </body>
 </license>
-</SPDX>

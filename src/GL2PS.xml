@@ -1,8 +1,7 @@
-<SPDX>
-<license identifier="GL2PS">
+<license name="GL2PS License" identifier="GL2PS">
+<body>
 <title>GL2PS LICENSE Version 2, November 2003</title>
 <copyright>Copyright (C) 2003, Christophe Geuzaine</copyright>
-<body>
 Permission to use, copy, and distribute this software and its documentation for any purpose with or without fee is hereby granted, provided that the copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation.
 
 Permission to modify and distribute modified versions of this software is granted, provided that:
@@ -14,4 +13,3 @@ Permission to modify and distribute modified versions of this software is grante
 This software is provided "as is" without express or implied warranty.
 </body>
 </license>
-</SPDX>

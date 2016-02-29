@@ -1,6 +1,5 @@
 <!-- REVIEW -->
-<SPDX>
-<license identifier="LPPL-1.3a">
+<license name="LaTeX Project Public License v1.3a" identifier="LPPL-1.3a">
 <header>
 Copyright <alt name="copyright" match=".+">2003 M. Y. Name</alt>
 
@@ -16,6 +15,7 @@ This Current Maintainer of this work is <alt name="maintainer" match=".+">M. Y. 
 
 This work consists of <alt name="the work" match=".+">pig.dtx and pig.ins % and the derived file pig.sty</alt>.
 </header>
+<body>
 <title>
 The LaTeX Project Public License 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -23,9 +23,8 @@ The LaTeX Project Public License
 LPPL Version 1.3a 2004-10-01
 </title>
 <copyright>Copyright 1999 2002-04 LaTeX3</copyright>
-<body>
-Project Everyone is allowed to distribute verbatim copies of this license document, but modification of it is not allowed. 
-
+Project Everyone is allowed to distribute verbatim copies of this license document, but modification of it is not allowed.
+<title>
 PREAMBLE 
 ========
 
@@ -37,8 +36,8 @@ The section `WHETHER AND HOW TO DISTRIBUTE WORKS UNDER THIS LICENSE', below, giv
 
 This license gives conditions under which a work may be distributed and modified, as well as conditions under which modified versions of that work may be distributed.
 
-We, the LaTeX3 Project, believe that the conditions below give you the freedom to make and distribute modified versions of your work that conform with whatever technical specifications you wish while maintaining the availability, integrity, and reliability of that work. If you do not see how to achieve your goal while meeting these conditions, then read the document `cfgguide.tex' and `modguide.tex' in the base LaTeX distribution for suggestions. 
-
+We, the LaTeX3 Project, believe that the conditions below give you the freedom to make and distribute modified versions of your work that conform with whatever technical specifications you wish while maintaining the availability, integrity, and reliability of that work. If you do not see how to achieve your goal while meeting these conditions, then read the document `cfgguide.tex' and `modguide.tex' in the base LaTeX distribution for suggestions.
+</title>
 DEFINITIONS 
 ===========
 
@@ -136,8 +135,8 @@ If the Work is unmaintained, you can become the Current Maintainer of the Work t
 
 A change in the Current Maintainer does not, of itself, alter the fact that the Work is distributed under the LPPL license.
 
-If you become the Current Maintainer of the Work, you should immediately provide, within the Work, a prominent and unambiguous statement of your status as Current Maintainer. You should also announce your new status to the same pertinent community as in 2b) above. 
-
+If you become the Current Maintainer of the Work, you should immediately provide, within the Work, a prominent and unambiguous statement of your status as Current Maintainer. You should also announce your new status to the same pertinent community as in 2b) above.
+<optional>
 WHETHER AND HOW TO DISTRIBUTE WORKS UNDER THIS LICENSE 
 ======================================================
 
@@ -193,6 +192,6 @@ The LPPL requires that distributions of the Work contain all the files of the Wo
       % This work consists of all files listed in manifest.txt. 
 
 in that place. In the absence of an unequivocal list it might be impossible for the licensee to determine what is considered by you to comprise the Work and, in such a case, the licensee would be entitled to make reasonable conjectures as to which files comprise the Work.
+</optional>
 </body>
 </license>
-</SPDX>

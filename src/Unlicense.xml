@@ -1,5 +1,4 @@
-<SPDX>
-<license identifier="Unlicense">
+<license name="The Unlicense" identifier="Unlicense">
 <body>
 This is free and unencumbered software released into the public domain.
 
@@ -13,4 +12,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 For more information, please refer to &lt;http://unlicense.org/&gt;
 </body>
 </license>
-</SPDX>

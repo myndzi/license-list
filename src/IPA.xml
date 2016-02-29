@@ -1,7 +1,6 @@
-<SPDX>
-<license identifier="IPA">
-<title>IPA Font License Agreement v1.0</title>
+<license name="IPA Font License" identifier="IPA">
 <body>
+<title>IPA Font License Agreement v1.0</title>
 The Licensor provides the Licensed Program (as defined in Article 1 below) under the terms of this license agreement ("Agreement").  Any use, reproduction or distribution of the Licensed Program, or any exercise of rights under this Agreement by a Recipient (as defined in Article 1 below) constitutes the Recipient's acceptance of this Agreement.
 
 Article 1 (Definitions)
@@ -85,4 +84,3 @@ Article 5 (Governing Law)
 <b>2.</b> This Agreement shall be construed under the laws of Japan.
 </body>
 </license>
-</SPDX>

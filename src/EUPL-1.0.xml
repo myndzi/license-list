@@ -1,11 +1,7 @@
-<SPDX>
-<license identifier="EUPL-1.0">
-<title>
-European Union Public Licence V.1.0 
-
-EUPL (c) the European Community 2007
-</title>
+<license name="European Union Public License 1.0" identifier="EUPL-1.0">
 <body>
+<title>European Union Public Licence V.1.0</title>
+<copyright>EUPL (c) the European Community 2007</copyright>
 This European Union Public Licence (the “EUPL”) applies to the Work or Software (as defined below) which is provided under the terms of this Licence. Any use of the Work, other than as authorised under this Licence is prohibited (to the extent such use is covered by a right of the copyright holder of the Work). 
 
 The Original Work is provided under the terms of this Licence when the Licensor (as defined below) has placed the following notice immediately following the copyright notice for the Original Work: 
@@ -144,9 +140,8 @@ This licence shall be governed by the Belgian law if:
 
      − a litigation arises between the European Commission, as a Licensor, and any Licensee; 
 
-     − the Licensor, other than the European Commission, has no residence or registered office inside a European Union country. 
-
-
+     − the Licensor, other than the European Commission, has no residence or registered office inside a European Union country.
+<optional>
 Appendix
 
 “Compatible Licences” according to article 5 EUPL are: 
@@ -156,6 +151,6 @@ Appendix
 − Common Public License v. 1.0 
 − Eclipse Public License v. 1.0 
 − Cecill v. 2.0
+</optional>
 </body>
 </license>
-</SPDX>

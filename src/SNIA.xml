@@ -1,11 +1,10 @@
-<SPDX>
-<license identifier="SNIA">
+<license name="SNIA Public License 1.1" identifier="SNIA">
+<body>
 <title>
 STORAGE NETWORKING INDUSTRY ASSOCIATION 
 PUBLIC LICENSE 
 Version 1.1
 </title>
-<body>
 <b>1.</b> Definitions.
 
 <b>1.1</b> "Commercial Use" means distribution or otherwise making the Covered Code available to a third party.  
@@ -108,7 +107,7 @@ Version 1.1
 <b>13.</b> MULTIPLE-LICENSED CODE. Initial Developer may designate portions of the Covered Code as "Multiple-Licensed". "Multiple-Licensed" means that the Initial Developer permits you to utilize portions of the Covered Code under Your choice of this License or the alternative licenses, if any, specified by the Initial Developer in the file described in Exhibit A.
 
 <b>14.</b> ACCEPTANCE. This License is accepted by You if You retain, use, or distribute the Covered Code for any purpose.
-
+<optional>
 EXHIBIT A The SNIA Public License.
 
 The contents of this file are subject to the SNIA Public License Version 1.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
@@ -124,6 +123,6 @@ The Initial Developer of the Original Code is [COMPLETE THIS] .
 Contributor(s): ______________________________________.
 
 Read more about this license at http://www.snia.org/smi/developers/open_source/
+</optional>
 </body>
 </license>
-</SPDX>

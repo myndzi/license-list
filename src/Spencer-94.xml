@@ -1,7 +1,6 @@
-<SPDX>
-<license identifier="Spencer-94">
-<title>Copyright 1992, 1993, 1994 Henry Spencer.  All rights reserved.</title>
+<license name="Spencer License 94" identifier="Spencer-94">
 <body>
+<copyright>Copyright 1992, 1993, 1994 Henry Spencer.  All rights reserved.</copyright>
 This software is not subject to any license of the American Telephone and Telegraph Company or of the Regents of the University of California.
 
 Permission is granted to anyone to use this software for any purpose on any computer system, and to alter it and redistribute it, subject to the following restrictions:
@@ -15,4 +14,3 @@ Permission is granted to anyone to use this software for any purpose on any comp
 <b>4.</b> This notice may not be removed or altered.
 </body>
 </license>
-</SPDX>

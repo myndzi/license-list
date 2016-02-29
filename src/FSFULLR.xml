@@ -1,6 +1,6 @@
-<SPDX>
-<license identifier="FSFULLR">
-<copyright>Copyright 1996-2006 Free Software Foundation, Inc.</copyright>
-<body>This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved.</body>
+<license name="FSF Unlimited License (with License Retention)" identifier="FSFULLR">
+<body>
+<title>Copyright 1996-2006 Free Software Foundation, Inc.</title>
+This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved.
+</body>
 </license>
-</SPDX>

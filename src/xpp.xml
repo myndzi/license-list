@@ -1,8 +1,7 @@
-<SPDX>
-<license identifier="xpp">
+<license name="XPP License" identifier="xpp">
+<body>
 <title>LICENSE FOR THE Extreme! Lab PullParser</title>
 <copyright>Copyright (c) 2002 The Trustees of Indiana University. All rights reserved.</copyright>
-<body>
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 <b>1)</b> All redistributions of source code must retain the above copyright notice, the list of authors in the original source code, this list of conditions and the disclaimer listed in this license;
@@ -22,4 +21,3 @@ Alternatively, this acknowledgment may appear in the software itself, and wherev
 LICENSEE UNDERSTANDS THAT SOFTWARE IS PROVIDED "AS IS" FOR WHICH NO WARRANTIES AS TO CAPABILITIES OR ACCURACY ARE MADE. INDIANA UNIVERSITY GIVES NO WARRANTIES AND MAKES NO REPRESENTATION THAT SOFTWARE IS FREE OF INFRINGEMENT OF THIRD PARTY PATENT, COPYRIGHT, OR OTHER PROPRIETARY RIGHTS. INDIANA UNIVERSITY MAKES NO WARRANTIES THAT SOFTWARE IS FREE FROM "BUGS", "VIRUSES", "TROJAN HORSES", "TRAP DOORS", "WORMS", OR OTHER HARMFUL CODE. LICENSEE ASSUMES THE ENTIRE RISK AS TO THE PERFORMANCE OF SOFTWARE AND/OR ASSOCIATED MATERIALS, AND TO THE PERFORMANCE AND VALIDITY OF INFORMATION GENERATED USING SOFTWARE.
 </body>
 </license>
-</SPDX>
