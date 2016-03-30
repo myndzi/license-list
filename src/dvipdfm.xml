@@ -4,10 +4,9 @@
   </urls>
   <license>
     <body>
-      <p>A modified version of this file may be distributed, but it should
-         be distributed with a *different* name. Changed files must be
-         distributed *together with a complete and unchanged*
-         distribution of these files.</p>
+      <p>A modified version of this file may be distributed, but it should be distributed with a *different* name.
+         Changed files must be distributed *together with a complete and unchanged* distribution of these
+         files.</p>
     </body>
   </license>
 </SPDX>
